@@ -4,6 +4,9 @@ Hi,this is my first file.
 kheer
 paneer
 pasta
+in non veg:
+fish curry
+egg curry
 
 
 thank you:-)
